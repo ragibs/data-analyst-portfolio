@@ -128,6 +128,10 @@
 
 .app__skills-exp-year {
   margin-right: 3rem;
+  width: 10.9375rem;
+  @media screen and (min-width: 2000px) {
+    width: 23rem;
+  }
 
   p {
     font-weight: 800;
@@ -155,4 +159,8 @@
     max-width: 500px;
     line-height: 2;
   }
+}
+
+.app__skills-container {
+  justify-content: center;
 }

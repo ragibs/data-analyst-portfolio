@@ -96,6 +96,7 @@
 }
 
 .app__work-hover {
+  justify-content: center;
   position: absolute;
   top: 0;
   left: 0;
@@ -153,4 +154,8 @@
     background-color: #fff;
     top: -25px;
   }
+}
+
+.app__work-hover-icon {
+  justify-content: center;
 }
