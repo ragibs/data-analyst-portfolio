@@ -31,10 +31,9 @@ const Header = () => {
               <h1 className="head-text">Huzaifa</h1>
             </div>
           </div>
-          <div className="tag-cmp app__flex">
-            <p className="p-text">Web Developer</p>
-            <p className="p-text">Freelancer</p>
-          </div>
+          {/* <div className="tag-cmp app__flex">
+            <p className="p-text">Data Analyst</p>
+          </div> */}
         </div>
       </motion.div>
       <motion.div
