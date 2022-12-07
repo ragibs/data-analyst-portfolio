@@ -44,7 +44,7 @@
   align-items: flex-start;
   height: 100%;
 
-  margin: 0 2rem;
+  // margin: 0 2rem;
 
   @media screen and (max-width: 1200px) {
     width: 100%;
@@ -96,13 +96,13 @@
 }
 
 .app__header-circles {
-  flex: 0.75;
+  // flex: 0.75;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
   align-items: flex-start;
   height: 100%;
-  margin-left: 1rem;
+  // margin-left: 1rem;
 
   div {
     width: 100px;
@@ -166,7 +166,7 @@
 }
 
 .app__header-img {
-  flex: 1;
+  // flex: 1;
   height: 100%;
 
   display: flex;
