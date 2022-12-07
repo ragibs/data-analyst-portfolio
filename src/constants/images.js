@@ -11,7 +11,7 @@ import html from "../assets/html.png";
 import javascript from "../assets/javascript.png";
 import mu5 from "../assets/mu5.png";
 import node from "../assets/node.png";
-import python from "../assets/python.png";
+import python from "../assets/python.svg";
 import react from "../assets/react.png";
 import redux from "../assets/redux.png";
 import sass from "../assets/sass.png";
@@ -34,6 +34,8 @@ import bolt from "../assets/bolt.png";
 import nb from "../assets/nb.png";
 import skype from "../assets/skype.png";
 import spotify from "../assets/spotify.png";
+import tableau from "../assets/tableau.jpg";
+import r from "../assets/r.svg";
 
 export default {
   email,
@@ -69,4 +71,6 @@ export default {
   nb,
   skype,
   spotify,
+  tableau,
+  r,
 };
