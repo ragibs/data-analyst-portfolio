@@ -44,7 +44,7 @@ const Footer = () => {
     <>
       <h2 className="head-text">
         That's it! <br />
-        Now it's your turn to say hi.
+        <span>Now it's your turn to say hi.</span>
       </h2>
 
       <div className="app__footer-cards">
