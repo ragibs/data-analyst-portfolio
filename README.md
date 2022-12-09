@@ -13,9 +13,19 @@
 
 ### Mobile
 
+![syedhuzaifa vercel app_(iPhone SE)](https://user-images.githubusercontent.com/108539627/206746288-0da38b31-f965-4b3b-b0b0-1c35a410056d.png)
+![syedhuzaifa vercel app_(iPhone SE) (1)](https://user-images.githubusercontent.com/108539627/206746309-7e278f59-8b14-45b6-8453-e10d72b0d631.png)
+
+
 ### Tablet
 
+![syedhuzaifa vercel app_(iPad Air)](https://user-images.githubusercontent.com/108539627/206746358-5ffd3164-3106-471f-ba94-c69736b2b47d.png)
+![syedhuzaifa vercel app_(iPad Air)](https://user-images.githubusercontent.com/108539627/206746366-32604c7d-3c7a-4a9b-a6a1-47ced355764d.png)
+
+
 ### Desktop
+
+![desktop1](https://user-images.githubusercontent.com/108539627/206746401-51788d52-5bcc-497d-8090-d31edb477932.png)
 
 
 <h2>🛠️ Installation Steps:</h2>
