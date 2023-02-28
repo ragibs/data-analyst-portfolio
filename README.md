@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Data Analyst Portfolio📊📈👨‍💻👩‍💻</h1>
 
-<p id="description">I had the opportunity to build a portfolio for my friend, Huzaifa. The app is built on React and Sass. The backend is setup on Sanity which enables him to update the app as he grows his portfolio without needing to write a single line of code.</p>
+<p id="description">I had the opportunity to build a portfolio for my friend, Huzaifa, using React and Sass. To allow for easy updates as he expands his portfolio, the backend was implemented on Sanity, which means he can make changes without having to write any code.</p>
 
 
 
